@@ -32,4 +32,4 @@ OpenCCを利用して、繁体字と簡体字の相互変換をサポートし�
 
 必須要件： UMDファイルをTXT以外の形式（例：EPUB、MOBI、AZW3）に変換するには、事前にCalibreをインストールする必要があります。公式サイトからインストールしてください：https://calibre-ebook.com/ja/download。
 
-UMD Batch Converter image image image
+
