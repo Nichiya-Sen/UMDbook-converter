@@ -2,7 +2,9 @@ UMD Ebook Batch Converter
 本程式根據linpinger的umd2ebook新增更簡單易懂的執行介面，讓不會使用命令提示字元的使用者能更直覺的操作，原始程式的連結：https://github.com/linpinger/umd2txt?tab=readme-ov-file
 
 本程式支援將以前的UMD書檔轉換為mobi、epub、azw3、txt檔案，可一次轉換多個檔案。
+
 注意：因本程式的基礎umd2txt的設計，轉換後的檔案預設是簡體中文，並可能不包括原檔案內的圖片。
+
 本程式支援繁體中文、英文及日文介面。
 本程式使用openCC支援繁簡轉換。
 如果需要將UMD書檔轉換成txt以外檔案，必須先安裝calibre程式，請至官網安裝：https://calibre-ebook.com/zh_TW/download。
